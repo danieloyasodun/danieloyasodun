@@ -2,9 +2,8 @@
 
 Hello, I'm Daniel, a CS Student @ NJIT.
 
-<div style="border: 2px solid #000; padding: 10px; border-radius: 5px;">
-  :gear: Tools: .py, .js, .ts, .html, .css
-</div>
+:gear: Tools: .py
+
 
 
 <!--
