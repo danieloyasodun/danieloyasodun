@@ -2,7 +2,7 @@
 
 Hello, I'm Daniel, a CS Student @ NJIT.
 
-:gear: 
+:gear: Tools: .py, .js, .ts, .html, .css
 
 <!--
 **danieloyasodun/danieloyasodun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
