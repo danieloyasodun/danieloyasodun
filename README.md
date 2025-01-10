@@ -2,7 +2,10 @@
 
 Hello, I'm Daniel, a CS Student @ NJIT.
 
-:gear: Tools: .py, .js, .ts, .html, .css
+<div style="border: 2px solid #000; padding: 10px; border-radius: 5px;">
+  :gear: Tools: .py, .js, .ts, .html, .css
+</div>
+
 
 <!--
 **danieloyasodun/danieloyasodun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
