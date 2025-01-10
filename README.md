@@ -2,7 +2,7 @@
 
 Hello, I'm Daniel, a CS Student @ NJIT.
 
-:gear: Tools: ```.py```
+:gear: Tools: ```.py```, ```.js```, ```.ts```, ```.html```, ```.css```
 
 
 
