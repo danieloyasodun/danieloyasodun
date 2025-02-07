@@ -1,8 +1,17 @@
-👋
+<div id="header" align="center">
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/daniel-oyasodun-68ba32251/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
+</div>
 
-Hello, I'm Daniel, a CS Student @ NJIT.
-
-:gear: Tools: ```.py```, ```.js```, ```.ts```, ```.html```, ```.css```
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-plain-wordmark.svg" title="Android-Studio" alt="Android-Studio" width="40" height="40"/>&nbsp;
+</div>
 
 
 
